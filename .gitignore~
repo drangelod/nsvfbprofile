@@ -1,0 +1,13 @@
+# JetBrains project files
+.idea
+
+# NPM
+node_modules
+
+# NativeScript application
+hooks
+platforms
+
+#OSX applications
+.DS_store
+.vscode

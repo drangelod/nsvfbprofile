@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>556529153918-lubs50qtonbkqp8sti101r33snhmsd3b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.556529153918-lubs50qtonbkqp8sti101r33snhmsd3b</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAEMo_iJn3VOweyFf5Ncx0cAjfJH3RLPis</string>
+	<key>GCM_SENDER_ID</key>
+	<string>556529153918</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.angelengineering.nsvfblogin</string>
+	<key>PROJECT_ID</key>
+	<string>nsvfblogin-77a03</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nsvfblogin-77a03.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:556529153918:ios:7b49e1f808675f2e</string>
+	<key>DATABASE_URL</key>
+	<string>https://nsvfblogin-77a03.firebaseio.com</string>
+</dict>
+</plist>
